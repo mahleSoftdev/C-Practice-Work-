@@ -5,8 +5,7 @@ var exercises = new SortedDictionary<int, (string Title, Action Run)>
 {
     { 1, ("Print Hello and Name", Exercise01.Run) },
     { 2, ("Sum of Two Numbers",   Exercise02.Run) },
-    // Add new exercises here, e.g.:
-    // { 3, ("Divide Two Numbers", Exercise03.Run) },
+    { 3, ("Divide Two Numbers", Exercise03.Run) },
 };
 
 while (true)

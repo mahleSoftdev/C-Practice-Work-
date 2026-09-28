@@ -1,5 +1,5 @@
 ﻿using System;
-
+/*Basic Exercise- Accepts two numbers from the user and prints their sum*/
 namespace CSharpExercises
 {
     public static class Exercise02

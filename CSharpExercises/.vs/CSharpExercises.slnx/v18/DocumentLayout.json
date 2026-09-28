@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\asema\\Github\\C-Practice-Work-\\CSharpExercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{528A04CC-C5B0-C68E-0680-6C54DD5A4FD8}|CSharpExercises\\CSharpExercises.csproj|c:\\users\\asema\\github\\c-practice-work-\\csharpexercises\\csharpexercises\\exercise04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528A04CC-C5B0-C68E-0680-6C54DD5A4FD8}|CSharpExercises\\CSharpExercises.csproj|solutionrelative:csharpexercises\\exercise04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528A04CC-C5B0-C68E-0680-6C54DD5A4FD8}|CSharpExercises\\CSharpExercises.csproj|c:\\users\\asema\\github\\c-practice-work-\\csharpexercises\\csharpexercises\\exercise03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528A04CC-C5B0-C68E-0680-6C54DD5A4FD8}|CSharpExercises\\CSharpExercises.csproj|solutionrelative:csharpexercises\\exercise03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{528A04CC-C5B0-C68E-0680-6C54DD5A4FD8}|CSharpExercises\\CSharpExercises.csproj|c:\\users\\asema\\github\\c-practice-work-\\csharpexercises\\csharpexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{528A04CC-C5B0-C68E-0680-6C54DD5A4FD8}|CSharpExercises\\CSharpExercises.csproj|solutionrelative:csharpexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,29 +30,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Exercise04.cs",
+              "DocumentMoniker": "C:\\Users\\asema\\Github\\C-Practice-Work-\\CSharpExercises\\CSharpExercises\\Exercise04.cs",
+              "RelativeDocumentMoniker": "CSharpExercises\\Exercise04.cs",
+              "ToolTip": "C:\\Users\\asema\\Github\\C-Practice-Work-\\CSharpExercises\\CSharpExercises\\Exercise04.cs*",
+              "RelativeToolTip": "CSharpExercises\\Exercise04.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T13:10:31.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercise03.cs",
+              "DocumentMoniker": "C:\\Users\\asema\\Github\\C-Practice-Work-\\CSharpExercises\\CSharpExercises\\Exercise03.cs",
+              "RelativeDocumentMoniker": "CSharpExercises\\Exercise03.cs",
+              "ToolTip": "C:\\Users\\asema\\Github\\C-Practice-Work-\\CSharpExercises\\CSharpExercises\\Exercise03.cs*",
+              "RelativeToolTip": "CSharpExercises\\Exercise03.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T13:02:54.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Exercise02.cs",
               "DocumentMoniker": "C:\\Users\\asema\\Github\\C-Practice-Work-\\CSharpExercises\\CSharpExercises\\Exercise02.cs",
               "RelativeDocumentMoniker": "CSharpExercises\\Exercise02.cs",
-              "ToolTip": "C:\\Users\\asema\\Github\\C-Practice-Work-\\CSharpExercises\\CSharpExercises\\Exercise02.cs*",
-              "RelativeToolTip": "CSharpExercises\\Exercise02.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\asema\\Github\\C-Practice-Work-\\CSharpExercises\\CSharpExercises\\Exercise02.cs",
+              "RelativeToolTip": "CSharpExercises\\Exercise02.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T12:40:14.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Exercise01.cs",
               "DocumentMoniker": "C:\\Users\\asema\\Github\\C-Practice-Work-\\CSharpExercises\\CSharpExercises\\Exercise01.cs",
               "RelativeDocumentMoniker": "CSharpExercises\\Exercise01.cs",
-              "ToolTip": "C:\\Users\\asema\\Github\\C-Practice-Work-\\CSharpExercises\\CSharpExercises\\Exercise01.cs*",
-              "RelativeToolTip": "CSharpExercises\\Exercise01.cs*",
+              "ToolTip": "C:\\Users\\asema\\Github\\C-Practice-Work-\\CSharpExercises\\CSharpExercises\\Exercise01.cs",
+              "RelativeToolTip": "CSharpExercises\\Exercise01.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-26T22:40:14.915Z",
@@ -52,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\asema\\Github\\C-Practice-Work-\\CSharpExercises\\CSharpExercises\\Program.cs",
               "RelativeDocumentMoniker": "CSharpExercises\\Program.cs",
               "ToolTip": "C:\\Users\\asema\\Github\\C-Practice-Work-\\CSharpExercises\\CSharpExercises\\Program.cs*",
               "RelativeToolTip": "CSharpExercises\\Program.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-26T22:38:07.093Z",
               "EditorCaption": ""
