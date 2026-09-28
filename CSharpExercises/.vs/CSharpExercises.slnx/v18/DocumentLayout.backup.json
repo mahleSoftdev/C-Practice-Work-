@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\asema\\Github\\C-Practice-Work-\\CSharpExercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B00E439D-B79D-4B99-92A9-479A71348FF4}|CSharpExercises\\CSharpExercises.csproj|c:\\users\\asema\\github\\c-practice-work-\\csharpexercises\\csharpexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B00E439D-B79D-4B99-92A9-479A71348FF4}|CSharpExercises\\CSharpExercises.csproj|solutionrelative:csharpexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{528A04CC-C5B0-C68E-0680-6C54DD5A4FD8}|CSharpExercises\\CSharpExercises.csproj|c:\\users\\asema\\github\\c-practice-work-\\csharpexercises\\csharpexercises\\exercise02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528A04CC-C5B0-C68E-0680-6C54DD5A4FD8}|CSharpExercises\\CSharpExercises.csproj|solutionrelative:csharpexercises\\exercise02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528A04CC-C5B0-C68E-0680-6C54DD5A4FD8}|CSharpExercises\\CSharpExercises.csproj|c:\\users\\asema\\github\\c-practice-work-\\csharpexercises\\csharpexercises\\exercise01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528A04CC-C5B0-C68E-0680-6C54DD5A4FD8}|CSharpExercises\\CSharpExercises.csproj|solutionrelative:csharpexercises\\exercise01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528A04CC-C5B0-C68E-0680-6C54DD5A4FD8}|CSharpExercises\\CSharpExercises.csproj|c:\\users\\asema\\github\\c-practice-work-\\csharpexercises\\csharpexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528A04CC-C5B0-C68E-0680-6C54DD5A4FD8}|CSharpExercises\\CSharpExercises.csproj|solutionrelative:csharpexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Exercise02.cs",
+              "DocumentMoniker": "C:\\Users\\asema\\Github\\C-Practice-Work-\\CSharpExercises\\CSharpExercises\\Exercise02.cs",
+              "RelativeDocumentMoniker": "CSharpExercises\\Exercise02.cs",
+              "ToolTip": "C:\\Users\\asema\\Github\\C-Practice-Work-\\CSharpExercises\\CSharpExercises\\Exercise02.cs",
+              "RelativeToolTip": "CSharpExercises\\Exercise02.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T12:40:14.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercise01.cs",
+              "DocumentMoniker": "C:\\Users\\asema\\Github\\C-Practice-Work-\\CSharpExercises\\CSharpExercises\\Exercise01.cs",
+              "RelativeDocumentMoniker": "CSharpExercises\\Exercise01.cs",
+              "ToolTip": "C:\\Users\\asema\\Github\\C-Practice-Work-\\CSharpExercises\\CSharpExercises\\Exercise01.cs",
+              "RelativeToolTip": "CSharpExercises\\Exercise01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T22:40:14.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\asema\\Github\\C-Practice-Work-\\CSharpExercises\\CSharpExercises\\Program.cs",
               "RelativeDocumentMoniker": "CSharpExercises\\Program.cs",
@@ -26,8 +60,7 @@
               "RelativeToolTip": "CSharpExercises\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-26T22:38:07.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-26T22:38:07.093Z"
             }
           ]
         }
