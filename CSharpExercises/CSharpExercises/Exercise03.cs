@@ -13,7 +13,7 @@ namespace CSharpExercises
             double num2 = double.Parse(Console.ReadLine() ?? "");
 
             //Devide the two numbers
-            int result = num1 / num2;
+            double result = num1 / num2;
             Console.WriteLine("The result of dividing " + num1 + " by " + num2 + " is: " + result);
         }
     }
