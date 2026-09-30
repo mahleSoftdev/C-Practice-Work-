@@ -8,7 +8,8 @@ var exercises = new SortedDictionary<int, (string Title, Action Run)>
     { 3, ("Divide Two Numbers", Exercise03.Run) },
     { 4, ("Mathematical Operations", Exercise04.Run) },
     { 5, ("Swap Two Numbers", Exercise05.Run) },
-    { 6, ("Multiply Three Numbers", Exercise06.Run) }
+    { 6, ("Multiply Three Numbers", Exercise06.Run) },
+    { 7, ("Arithmetic Operations", Exercise07.Run) }
 };
 
 while (true)
